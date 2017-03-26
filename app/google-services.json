@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "642624618110",
+    "firebase_url": "https://fireapp-ae453.firebaseio.com",
+    "project_id": "fireapp-ae453",
+    "storage_bucket": "fireapp-ae453.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642624618110:android:07bf4db5808628fa",
+        "android_client_info": {
+          "package_name": "com.example.borno.fireapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642624618110-357omm8epb95k4alkd3mbtdvvsk8bc0f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.borno.fireapp",
+            "certificate_hash": "bd972d685cb6009586f3f39ee66ca0a937b671a1"
+          }
+        },
+        {
+          "client_id": "642624618110-j14m99pduoh4mn0fn5r262jga07db0c9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0CcDezqngIbngMj1-w4OvU_VX5Sq9hCA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642624618110-j14m99pduoh4mn0fn5r262jga07db0c9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

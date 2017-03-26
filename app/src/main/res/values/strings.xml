@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">OrganizaT</string>
+    <string name="name">Nombre</string>
+    <string name="title_activity_reference">ReferenceActivity</string>
+    <string name="hint_username">Nombre de Usuario</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="textBtnLogin">Login</string>
+    <string name="dont_have_account">¿No tienes cuenta?, </string>
+    <string name="create_here">Crea una aquí</string>
+    <string name="hint_email">Correo</string>
+    <string name="hint_name">Nombre</string>
+    <string name="hint_user">Usuario</string>
+    <string name="hint_confPass">Confirmar contraseña</string>
+    <string name="textBtn_CreateAcc">Únete</string>
+    <string name="toolbar_title_create_account">Crear Cuenta</string>
+    <string name="taskename_card">Exámen de Programación</string>
+    <string name="date_card">22-03-2017</string>
+    <string name="firstword_card">Fecha:</string>
+    <string name="firstword1_card">Hora:</string>
+    <string name="time_card">11:00 AM</string>
+    <string name="firstword2_card">Lugar:</string>
+    <string name="place_card">FCC Modulo IV</string>
+    <string name="tab_search">Buscar</string>
+    <string name="tab_tasks">Tareas</string>
+    <string name="tab_profile">Yo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

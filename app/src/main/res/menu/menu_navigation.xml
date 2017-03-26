@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+    <item
+        android:id="@+id/action_search"
+        android:title="@string/tab_search"
+        android:icon="@drawable/search"
+        />
+    <item
+        android:id="@+id/action_task"
+        android:title="@string/tab_tasks"
+        android:icon="@drawable/task"
+        />
+    <item
+        android:id="@+id/action_profile"
+        android:title="@string/tab_profile"
+        android:icon="@drawable/user"
+        />
+</menu>
